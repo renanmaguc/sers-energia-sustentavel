@@ -1,7 +1,7 @@
 # sers-energia-sustentavel
 # Projeto SERS – Gestão Sustentável de Energia em um Escritório de TI
 
-Este repositório reúne os artefatos do mini‑projeto desenvolvido para a disciplina **Sustentabilidade e Responsabilidade Social (SERS)**.
+Este repositório reúne os artefatos do mini‑projeto desenvolvido para a disciplina **Soluções em Energias Renováveis e Sustentáveis (SERS)**.
 
 ## 1. Descrição do problema
 
