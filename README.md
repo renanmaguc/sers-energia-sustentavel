@@ -21,12 +21,12 @@ Este projeto considera um pequeno escritório de TI e busca:
 ```text
 sers-energia-sustentavel/
 ├─ dados/
-│  ├─ consumo_energia.csv          # Dados simulados de consumo horário
+│  ├─ consumo_energia.csv          #dados simulados de consumo horário
 ├─ src/
-│  ├─ SERS_projeto_energia.ipynb   # Notebook principal com simulação e análises
+│  ├─ SERS_projeto_energia.ipynb   #notebook principal com simulação e análises
 ├─ docs/
-│  ├─ SERS_relatorio_energia.pdf   # Relatório em PDF pronto para entrega
-├─ README.md                       # Este arquivo
+│  ├─ SERS_relatorio_energia.pdf   #relatório em PDF pronto para entrega
+├─ README.md                       #este arquivo
 ```
 
 ## 3. Dados utilizados
